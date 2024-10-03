@@ -1,3 +1,15 @@
+body{
+  background-image: url(assets/bg.jpg);
+  background-size: cover;
+}
+#page{
+  box-sizing: border-box; /* tira o padrão da caixa*/
+  width: 800px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 48px auto; /*48 em cima e baixo (vertical), auto horizontal */
+}
 img {
   border-radius:  16px;
 }
