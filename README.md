@@ -1,4 +1,4 @@
-<h1 align="center"> Tech News </h1>
+<h1 align="center"> Página de Receita </h1>
 
 <p align="center">
   Projeto desenvolvido com o curso da Rocketseat. <br>
