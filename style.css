@@ -34,7 +34,7 @@ main{
 
 }
 
-section + section { /*sextion q tem section anterior*/
+section + section { /*section q tem section anterior*/
   margin-top: 24px;
 
 }
@@ -53,7 +53,7 @@ h2{
 
 }
 
-h1,h2{
+h1, h2{
   color: #291B1A;
   margin-bottom: 4px;/* margem em baixo do titulo*/
   line-height: 150%;
